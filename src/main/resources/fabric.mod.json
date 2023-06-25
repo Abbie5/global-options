@@ -1,0 +1,10 @@
+{
+	"schemaVersion": 1,
+	"id": "global_options",
+	"version": "${version}",
+	"name": "Global Options",
+	"authors": ["Abbie"],
+	"license": "LGPL-3.0-or-later",
+	"environment": "client",
+	"mixins": ["global_options.mixins.json"]
+}
