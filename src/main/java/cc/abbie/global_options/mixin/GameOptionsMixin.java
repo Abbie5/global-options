@@ -1,4 +1,4 @@
-package cc.abbie.mixin;
+package cc.abbie.global_options.mixin;
 
 import net.minecraft.client.options.GameOptions;
 import net.minecraft.util.Util;

@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "cc.abbie.mixin",
+	"package": "cc.abbie.global_options.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"client": [
 		"GameOptionsMixin"
